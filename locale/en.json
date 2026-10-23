@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "AI-DLC",
+    "description": "Runs AI-DLC's deterministic spine in DeepSeek Harness: records the person's turns, enforces the approval, transition, review and runtime-record guards, keeps the workflow loop running between stages, and writes the audit trail and sensor results."
+  }
+}
